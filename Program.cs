@@ -28,7 +28,7 @@ namespace DeletingfromMiddleofArray
             {
                 intArray[i - 1] = intArray[i];
             }
-            length--;
+            
 
             foreach (var i in intArray)
             {
